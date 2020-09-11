@@ -4,7 +4,7 @@ I am Hrishabh, an 3rd year CSE undergrad currently working as an intern at TopBr
 
 Currently I am in the process of finishing my 2nd project at my internship ( Which will be launching by the End of July ).
 
-As my internship will be ending by the end of July, I am looking for oppurtunities as:
+Open to oppurtunities like:
 1. Full Stack Developer Intern.
 2. Data Scientist Intern.
 
