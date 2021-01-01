@@ -1,6 +1,6 @@
 # Hello People
 
-My name is Hrishabh Pandey, and I am an 3rd year CSE major.
+CSE Undergrad Currently working on his skills and looking for new and oppurtunities.
 
 <table>
   <tr>
